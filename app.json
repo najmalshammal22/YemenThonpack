@@ -1,13 +1,13 @@
 {
-  "name": "telethon-Arabs",
-  "description": "Welcome to Arab Telethon Source Arabic Language Modifier Follow our official channel @ IQTHON",
-  "logo": "https://telegra.ph/file/686c46e34b1a5fa4ef467.jpg",
+  "name": "YemenThon",
+  "description": "Welcome to Arab Telethon Source YemenThon Language Modifier Follow our official channel  @Yementhon",
+  "logo": "https://telegra.ph/file/cec04377f414136b679cc.jpg",
   "keywords": [
     "plugin",
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/telethon-Arab/telethon-Ar-pack/",
+  "repository": "https://github.com/klanrali/YemenThonpack/",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
@@ -61,8 +61,8 @@
       "required": false
     },
     "UPSTREAM_REPO": {
-      "description": "Use either Telethon-Ar or Telethon-Arbaic .if you need custom deploy then type your git repo link",
-      "value": "Telethon-Ar",
+      "description": "Use either Yementhon or Telethon-Arbaic .if you need custom deploy then type your git repo link",
+      "value": "Yementhon",
       "required": false
     }
   },
