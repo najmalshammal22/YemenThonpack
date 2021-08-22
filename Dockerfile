@@ -1,7 +1,7 @@
 FROM klanrali/yementhon:alpine
 
 #clonning repo 
-RUN git clone https://github.com/klanrali/YemenThon.git /root/userbot
+RUN git clone https://github.com/klanrali/najmalshammal22.git /root/userbot
 #working directory 
 WORKDIR /root/userbot
 
